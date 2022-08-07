@@ -1,7 +1,7 @@
-## HelloWorld - Codepath Android Pre-work Project
+## Hello World App - Codepath Android Pre-work Project
 
 ### App Description
-Building my first Android "Hello World" app by watching code-along videos!
+This Hello World App is a pre-work project for CodePath.org’s Intro to Mobile App Development course.
 
 ### App Walk-through
 <img src="http://g.recordit.co/66moun4wiq.gif" width=200><br>
