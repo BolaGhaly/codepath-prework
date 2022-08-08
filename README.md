@@ -6,9 +6,11 @@ This Hello World App is a pre-work project for CodePath.org’s Intro to Mobile 
 ### App Walk-through
 The animated gifs pictures below show versions of the app with required features (left) and bonus features (right)
 
-<img src="http://g.recordit.co/66moun4wiq.gif" width=200/>
+<div>
+<img src="http://g.recordit.co/66moun4wiq.gif" width=200 />
 <img src="http://g.recordit.co/lxF3BAn6Gz.gif" width=198 />
 <br/>
+</div>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
