@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">HelloWorld</string>
+    <string name="helloFromBola">Hello from Bola!</string>
+    <string name="typeHere">Type here...</string>
+    <string name="changeTextBtn">Change Text String</string>
+    <string name="changeBackgroundColorBtn">Change Background Color</string>
+    <string name="changeTextColorBtn">Change Text Color</string>
+    <string name="androidIsAwesome">Android is Awesome!</string>
 </resources>
